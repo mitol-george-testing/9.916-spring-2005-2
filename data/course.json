@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f663a54e-11e5-a996-a108-711b7abea57f",
+      "a200579a-eaaa-c391-a86b-f6617d0ad929"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Neural Basis of Visual Object Recognition in Monkeys and Humans",
+  "course_description": "Understanding the brain's remarkable ability for visual object recognition is one of the greatest challenges of brain research. The goal of this course is to provide an overview of key issues of object representation and to survey data from primate physiology and human fMRI that bear on those issues. Topics include the computational problems of object representation, the nature of object representations in the brain, the tolerance and selectivity of those representations, and the effects of attention and learning.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.916",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
